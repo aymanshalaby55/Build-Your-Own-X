@@ -1,0 +1,17 @@
+{
+  "name": "wc-tool",
+  "version": "1.0.0",
+  "description": "simple unix tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wc-tool": "index.js"
+  },
+  "author": "Ayman shalaby",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
